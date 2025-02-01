@@ -118,4 +118,5 @@ class MainActivity : AppCompatActivity() {
             return
         }
     }
+    var o = 15
 }
